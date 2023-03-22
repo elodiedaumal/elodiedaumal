@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi 👋, I'm Elodie
+🎓 Passionate and enthusiastic junior web dev, also manga lover 
+💻 Click on my portfolio to see a selection of my work and projects.
+💼 Before changing my career path to a web dev, I set up my own business working as wordpress web creator.
+📚 My curiosity and my will to learn knows no bounds and I love teamwork.
+🤝 I stand up for companies which encourages personal development of employees.
+✈ Fun facts: I'm a travel addict and I've lived in 8 differents countries.
+📚 What I'm learning: How to create website using React, Styled component, Tailwind and Typescript.
 
-<!--
-**elodiedaumal/elodiedaumal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧰 Languages and Tools:
+Javascript, html5, css3, react, nodejs, Styled component, Tailwind, Typescript, VS Code, Github
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
