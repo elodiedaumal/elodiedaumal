@@ -24,7 +24,7 @@
 
 ---
 
-### Find me on:
+### 🔎 Find me on:
 
 <p align="start">
 <a align="center" href = "mailto:elodiedaumal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
@@ -34,7 +34,7 @@
 
 ---
 
-### My Stats:
+### 🟢 My Stats:
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Elodiedaumal">
