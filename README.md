@@ -1,5 +1,7 @@
 # I'm Elodie DAUMAL 👋
 
+I'm french webdeveloper with a proven track record of delivering high-quality websites and a passion for creating exceptional user experiences, I am now eager to secure a challenging position in a professional environment.
+
 
 ## 🧰 Languages and Tools
 
@@ -32,7 +34,7 @@
 
   
 
-- ✈ Fun facts: I'm a travel addict and I've lived in 8 differents countries.
+                         ✈ Fun facts: I'm a travel addict and I've lived in 8 differents countries.
 
 
 ## 🔎 Find me on:
