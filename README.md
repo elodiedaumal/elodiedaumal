@@ -1,6 +1,6 @@
 # I'm Elodie DAUMAL 👋
 
-I'm french webdeveloper with a proven track record of delivering high-quality websites and a passion for creating exceptional user experiences, I am now eager to secure a challenging position in a professional environment.
+I'm french web developer with a proven track record of delivering high-quality websites and a passion for creating exceptional user experiences, I am now eager to secure a challenging position in a professional environment.
 
 
 ## 🧰 Languages and Tools
