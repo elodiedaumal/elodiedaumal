@@ -7,7 +7,7 @@ I'm french web developer with a proven track record of delivering high-quality w
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,react,nextjs,redux,sass,styledcomponents,tailwind,ts,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,github,react,nextjs,redux,java,styledcomponents,tailwind,ts,vscode,wordpress" />
   </a>
 </p>
 
@@ -45,15 +45,7 @@ I'm french web developer with a proven track record of delivering high-quality w
 
 
 
----
 
-### 🟢 My Stats:
-
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=Elodiedaumal">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Elodiedaumal" />
-</a>
-</div>
 
 
 
